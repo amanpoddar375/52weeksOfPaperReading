@@ -1,1 +1,1 @@
-
+The paper <a href="https://github.com/amanpoddar375/52weeksOfPaperReading/blob/d4351a0c9b1a34b5a1df01f4a395e392705821e5/Week1:%20Attention%20Is%20All%20You%20Need/Attention%20is%20all%20you%20need(2017).pdf">Attention Is All You Need</a> is a seminal work in the field of deep learning and natural language processing. The authors present the Transformer architecture, which is an innovative new way to model sequences using attention mechanisms instead of recurrent neural networks (RNNs).
